@@ -37,8 +37,4 @@
 
 ---
 
-### Connect With Me 
-<p align="center">
-<a href="https://github.com/svfah" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/safah-q" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>
-</p>
+
