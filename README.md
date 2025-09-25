@@ -5,8 +5,7 @@
 
 ### About Me
 - 🎓 Recently graduated with a **BSc in Computer Science**
-- 🌱 Currently enhancing my skills in **Full Stack Development** & **Data Structures/Algorithms**
-- 🔍 Looking for opportunities in **software engineering, backend development, or data engineering**
+- 🔍 Looking for opportunities in **software engineering, frontend and backend development, or data analysis**
 - 🛍️ Background in **retail**, bringing strong **teamwork, communication, and adaptability** skills  
 - 🎨 **Anime, Drawing, Gaming, Reading, Liverpool Fan**
 - ✈️ Traveler – Visited **11 countries** and counting
