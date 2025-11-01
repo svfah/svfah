@@ -7,7 +7,7 @@
 - 🎓 Recently graduated with a **BSc in Computer Science**
 - 🔍 Looking for opportunities in **software engineering, frontend and backend development, or data analysis**
 - 🛍️ Background in **retail**, bringing strong **teamwork, communication, and adaptability** skills  
-- 🎨 **Anime, Drawing, Gaming, Reading, Liverpool Fan**
+- 🎨 Anime, Drawing, Gaming, Reading, Liverpool Fan, **YNWA**
 - ✈️ Traveler – Visited **11 countries** and counting
 
 
