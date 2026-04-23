@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Safah🕺 </h1>
-<h3 align="center">Computer Science Graduate | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science Graduate | Aspiring Data Analyst</h3>
 
 ---
 
